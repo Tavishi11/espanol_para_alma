@@ -1,5 +1,10 @@
 # espanol_para_alma
-django
-razorpay
-psycopg2
-pillow
+
+#dependencies
+1. django
+1. razorpay
+1. psycopg2
+1. pillow
+
+#end points
+```/``` - Login Page
